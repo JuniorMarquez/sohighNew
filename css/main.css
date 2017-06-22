@@ -31,7 +31,7 @@ http://themeforest.net/licenses
 /*---------- 
 [Colors]
     text color : #FFFFFF, #FFF
-    blue : #F80000
+    blue : #1BB3FF
 */
 /* 0. Base Style  */
 /* 0.0 Tag/Classes Initailization */
@@ -172,8 +172,8 @@ ul, li {
   margin: 0; }
 
 a {
-  color: #F80000; }
-
+  color: #1BB3FF; }
+/*1BB3FF*/
 .full-width {
   width: 100%;
   max-width: 100%;
@@ -267,7 +267,7 @@ strong,
 .btn-round {
   font-family: "Roboto Condensed", "League Gothic";
   font-size: 16px;
-  background: #F80000;
+  background: #1BB3FF;
   color: #fff;
   border-radius: 2px;
   display: inline-block;
@@ -277,7 +277,7 @@ strong,
           transition: 0.3s; }
 
 .btn-round:hover {
-  color: #F80000;
+  color: #1BB3FF;
   background: #fff;
   box-shadow: 0 5px 5px rgba(0, 0, 0, 0.2); }
 
@@ -539,9 +539,9 @@ strong,
       -webkit-transition-delay: 0.7s;
               transition-delay: 0.7s; }
   .page-menu li.active .icon {
-    background: #F80000; }
+    background: #1BB3FF; }
   .page-menu li:not(.active):hover .icon {
-    color: #F80000; }
+    color: #1BB3FF; }
   .page-menu li:not(.active):hover .icon:after {
     left: 0px;
     top: 0px;
@@ -627,10 +627,10 @@ strong,
 
 #fp-nav ul li a.active span,
 .fp-slidesNav ul li a.active span {
-  background: #F80000; }
+  background: #1BB3FF; }
   #fp-nav ul li a.active span:before,
   .fp-slidesNav ul li a.active span:before {
-    background: #F80000;
+    background: #1BB3FF;
     left: -24px;
     width: 24px; }
 
@@ -788,7 +788,7 @@ strong,
             -ms-transform-origin: left;
                 transform-origin: left;
         content: "";
-        background: #F80000; }
+        background: #1BB3FF; }
     .section .content .c-card .c-content {
       text-align: left;
       padding: 16px;
@@ -797,12 +797,12 @@ strong,
         text-align: right; }
       .section .content .c-card .c-content h2 {
         font-size: 24px;
-        color: #F80000;
+        color: #1BB3FF;
         font-family: "Roboto Condensed", "League Gothic";
         text-transform: uppercase;
         font-weight: bold; }
       .section .content .c-card .c-content h3 {
-        color: #F80000;
+        color: #1BB3FF;
         font-family: "Roboto Condensed", "League Gothic";
         font-size: 16px;
         position: relative; }
@@ -811,7 +811,7 @@ strong,
           height: 16px;
           width: 16px;
           content: "";
-          background: #F80000;
+          background: #1BB3FF;
           border-radius: 16px;
           display: inline-block;
           margin-left: 8px;
@@ -860,7 +860,7 @@ strong,
         height: 56px;
         width: 56px;
         left: -56px;
-        background: #F80000;
+        background: #1BB3FF;
         text-align: center;
         padding-top: 10px; }
         .section .content .c-illustr .img-wrapper .swipe-nav .icon {
@@ -933,7 +933,7 @@ strong,
     .s-footer a:after {
       content: "";
       position: absolute;
-      background: #F80000;
+      background: #1BB3FF;
       border: 4px solid #ffffff;
       width: 16px;
       height: 16px;
@@ -1073,7 +1073,7 @@ strong,
           height: 8px;
           width: 8px;
           border-radius: 20px;
-          background: #F80000;
+          background: #1BB3FF;
           content: "";
           -webkit-transition: 0.2s;
                   transition: 0.2s; }
@@ -1091,7 +1091,7 @@ strong,
             width: auto;
             content: "";
             position: absolute;
-            background: #F80000;
+            background: #1BB3FF;
             height: 1px;
             -webkit-transition: 0.3s;
                     transition: 0.3s;
@@ -1102,7 +1102,7 @@ strong,
                   transform: scale(0.5);
           background: #ffffff; }
         .section-home .content .c-text .home-btns .btn:hover span {
-          color: #F80000; }
+          color: #1BB3FF; }
           .section-home .content .c-text .home-btns .btn:hover span:after {
             left: -0%;
             right: -0%;
@@ -1137,7 +1137,7 @@ strong,
               position: absolute;
               content: "";
               background: #ffffff;
-              background: #F80000;
+              background: #1BB3FF;
               -webkit-transform: rotate(45deg);
                   -ms-transform: rotate(45deg);
                       transform: rotate(45deg);
@@ -1251,7 +1251,7 @@ strong,
                 transition: 0.3s;
         z-index: 0; }
       .section .content .c-wrapper .swiper-pagination-bullet:hover, .section .content .c-wrapper .swiper-pagination-bullet.swiper-pagination-bullet-active {
-        background: #F80000; }
+        background: #1BB3FF; }
         .section .content .c-wrapper .swiper-pagination-bullet:hover:before, .section .content .c-wrapper .swiper-pagination-bullet.swiper-pagination-bullet-active:before {
           background: #ffffff;
           left: -4px;
@@ -1272,7 +1272,7 @@ strong,
         .section .content .c-wrapper .slide-nav-container .items-button:after,
         .section .content .c-wrapper .items-nav-container .items-button:after {
           content: "";
-          background: #F80000;
+          background: #1BB3FF;
           -webkit-transform: rotate(45deg);
               -ms-transform: rotate(45deg);
                   transform: rotate(45deg);
@@ -1287,7 +1287,7 @@ strong,
           font-family: "Roboto Condensed", "League Gothic";
           text-transform: uppercase;
           letter-spacing: 0.2em;
-          color: #F80000;
+          color: #1BB3FF;
           display: inline-block;
           padding-top: 8px;
           position: relative; }
@@ -1376,7 +1376,7 @@ strong,
     .section .content .c-features li .title {
       font-size: 18px;
       font-family: "Roboto Condensed", "League Gothic";
-      color: #F80000;
+      color: #1BB3FF;
       text-transform: uppercase;
       letter-spacing: 0.2em;
       position: relative;
@@ -1389,7 +1389,7 @@ strong,
         left: -32px;
         bottom: 0;
         top: auto;
-        background: #F80000;
+        background: #1BB3FF;
         height: 2px;
         width: 96px;
         margin-right: -8px;
@@ -1404,7 +1404,7 @@ strong,
         bottom: -6px;
         top: auto;
         background: #ffffff;
-        border: 4px solid #F80000;
+        border: 4px solid #1BB3FF;
         height: 16px;
         width: 16px;
         margin-left: -8px;
@@ -1462,7 +1462,7 @@ strong,
           margin-left: 0px;
           top: auto;
           bottom: 0px;
-          border: 0px solid #F80000;
+          border: 0px solid #1BB3FF;
           -webkit-transition: 0.3s;
                   transition: 0.3s;
           -webkit-transition-delay: 0s;
@@ -1483,7 +1483,7 @@ strong,
         .section .content .c-features li.anim .desc a {
           color: inherit; }
           .section .content .c-features li.anim .desc a:hover {
-            color: #F80000;
+            color: #1BB3FF;
             text-decoration: underline; }
         .section .content .c-features li.anim .desc p {
           font-family: "Roboto", "Helvetica", sans-serif;
@@ -1525,7 +1525,7 @@ strong,
         bottom: -7px;
         top: auto;
         margin-left: -8px;
-        border: 4px solid #F80000;
+        border: 4px solid #1BB3FF;
         -webkit-transition-delay: 1s;
                 transition-delay: 1s; }
     .section.active .content .c-features li.anim .desc {
@@ -1803,7 +1803,7 @@ strong,
         .section .content .gallery-slides .c-gallery li .item-desc h3:after {
           position: absolute;
           bottom: -2px;
-          background: #F80000;
+          background: #1BB3FF;
           left: 0;
           width: 64px;
           height: 4px;
@@ -1823,7 +1823,7 @@ strong,
         width: 16px;
         height: 16px;
         border-radius: 16px;
-        background: #F80000;
+        background: #1BB3FF;
         -webkit-transition: 0.3s;
                 transition: 0.3s; }
       .section .content .gallery-slides .c-gallery li .item-desc:after {
@@ -1853,7 +1853,7 @@ strong,
           -ms-transform: scale(1.2);
               transform: scale(1.2); }
     .section .content .gallery-slides .c-gallery li:hover .item-desc:after {
-      border-color: #F80000; }
+      border-color: #1BB3FF; }
     @media (min-width: 720px) {
       .section .content .gallery-slides .c-gallery li.anim {
         opacity: 0;
@@ -2651,7 +2651,7 @@ strong,
       height: 16px;
       width: 16px;
       content: "";
-      background: #F80000;
+      background: #1BB3FF;
       border-radius: 16px;
       display: inline-block;
       margin-right: 8px;
@@ -2673,7 +2673,7 @@ strong,
     font-family: "Roboto Condensed", "League Gothic";
     letter-spacing: 0.2em;
     color: #ffffff;
-    background: #F80000;
+    background: #1BB3FF;
     display: table;
     vertical-align: middle;
     text-transform: uppercase;
@@ -2692,7 +2692,7 @@ strong,
       font-size: 14px;
       display: block;
       float: left;
-      color: #F80000; }
+      color: #1BB3FF; }
     .section-contact .content .c-form .form .fields label.error {
       position: absolute;
       font-family: "Roboto", "Helvetica", sans-serif;
@@ -2711,7 +2711,7 @@ strong,
       font-size: 14px;
       color: #1d1d1d;
       border: none;
-      border-bottom: 1px solid #F80000;
+      border-bottom: 1px solid #1BB3FF;
       box-shadow: none;
       margin-bottom: 0; }
     .section-contact .content .c-form .form .fields textarea {
@@ -2747,10 +2747,10 @@ strong,
     left: 96px;
     right: 96px;
     top: 0;
-    border-top: 1px solid #F80000; }
+    border-top: 1px solid #1BB3FF; }
   .section-contact .contact-footer h3 {
     font-family: "Roboto Condensed", "League Gothic";
-    color: #F80000;
+    color: #1BB3FF;
     font-size: 14px;
     margin: 0;
     margin-bottom: 8px;
@@ -2778,7 +2778,7 @@ strong,
       font-family: "Roboto Condensed", "League Gothic";
       letter-spacing: 0.2em;
       color: #ffffff;
-      background: #F80000;
+      background: #1BB3FF;
       display: table;
       vertical-align: middle;
       text-transform: uppercase;
@@ -2808,7 +2808,7 @@ strong,
       position: relative; }
       .section-contact .contact-footer .social-cont .socials li:after {
         content: "";
-        background: #F80000;
+        background: #1BB3FF;
         -webkit-transform: rotate(45deg);
             -ms-transform: rotate(45deg);
                 transform: rotate(45deg);
@@ -2826,11 +2826,11 @@ strong,
         text-align: center;
         border-radius: 2px;
         background: #ffffff;
-        color: #F80000;
+        color: #1BB3FF;
         font-size: 20px; }
         .section-contact .contact-footer .social-cont .socials li a:hover {
           color: #ffffff;
-          background: #F80000; }
+          background: #1BB3FF; }
 
 .section-contact .contact-footer.anim .c-wrapper {
   -webkit-transition-duration: 0.6s;
@@ -2864,7 +2864,7 @@ strong,
       margin-left: 40px;
       position: relative; }
       .page-item-detail .page-header .site-nav li a {
-        color: #F80000;
+        color: #1BB3FF;
         width: 32px;
         text-align: center;
         line-height: 1;
@@ -2877,7 +2877,7 @@ strong,
           width: auto;
           content: "";
           position: absolute;
-          background: #F80000;
+          background: #1BB3FF;
           height: 1px;
           -webkit-transition: 0.3s;
                   transition: 0.3s;
@@ -2889,12 +2889,12 @@ strong,
         .page-item-detail .page-header .site-nav li a .icon {
           font-size: 32px;
           display: block;
-          color: #F80000; }
+          color: #1BB3FF; }
         .page-item-detail .page-header .site-nav li a .desc {
           display: none; }
       .page-item-detail .page-header .site-nav li:before {
         content: "";
-        background: #F80000;
+        background: #1BB3FF;
         -webkit-transform: rotate(45deg);
             -ms-transform: rotate(45deg);
                 transform: rotate(45deg);
@@ -2924,7 +2924,7 @@ strong,
       -webkit-transform-origin: bottom left;
           -ms-transform-origin: bottom left;
               transform-origin: bottom left;
-      background: #F80000;
+      background: #1BB3FF;
       bottom: 0px;
       left: 0; }
     .page-item-detail .page-header .item-nav li {
@@ -2945,7 +2945,7 @@ strong,
         font-family: "Roboto Condensed", "League Gothic";
         letter-spacing: 0.2em;
         text-transform: uppercase;
-        color: #F80000;
+        color: #1BB3FF;
         font-size: 14px;
         line-height: 1;
         display: block; }
@@ -2956,7 +2956,7 @@ strong,
           width: auto;
           content: "";
           position: absolute;
-          background: #F80000;
+          background: #1BB3FF;
           height: 1px;
           -webkit-transition: 0.3s;
                   transition: 0.3s;
@@ -2980,7 +2980,7 @@ strong,
           margin-right: 4px;
           width: 8px;
           height: 8px;
-          border: 2px solid #F80000;
+          border: 2px solid #1BB3FF;
           border-bottom: none;
           border-left: none;
           -webkit-transform: rotate(45deg);
@@ -3011,7 +3011,7 @@ strong,
           margin-left: 0px;
           width: 8px;
           height: 8px;
-          border: 2px solid #F80000;
+          border: 2px solid #1BB3FF;
           border-top: none;
           border-right: none;
           -webkit-transform: rotate(45deg);
@@ -3047,7 +3047,7 @@ strong,
           float: left;
           margin-right: 1em;
           display: block;
-          color: #F80000;
+          color: #1BB3FF;
           font-family: "Roboto Condensed", "League Gothic";
           text-transform: uppercase;
           font-size: 14px;
@@ -3102,7 +3102,7 @@ strong,
         .page-item-detail .section .content .c-pane .c-content h2 {
           font-family: "Roboto Condensed", "League Gothic";
           font-size: 30px;
-          color: #F80000;
+          color: #1BB3FF;
           margin-bottom: 1em; }
         .page-item-detail .section .content .c-pane .c-content h3 {
           font-family: "Roboto Condensed", "League Gothic";
@@ -3114,7 +3114,7 @@ strong,
           margin-bottom: 1em; }
           .page-item-detail .section .content .c-pane .c-content h3:before {
             content: "";
-            background: #F80000;
+            background: #1BB3FF;
             -webkit-transform: rotate(45deg);
                 -ms-transform: rotate(45deg);
                     transform: rotate(45deg);
@@ -3139,7 +3139,7 @@ strong,
                 margin-bottom: 0; }
           .page-item-detail .section .content .c-pane .c-content .desc .caption,
           .page-item-detail .section .content .c-pane .c-content .desc caption {
-            color: #F80000;
+            color: #1BB3FF;
             font-family: "Roboto", "Helvetica", sans-serif;
             font-size: 14px; }
     .page-item-detail .section .content .c-pane-illustr {
@@ -3214,7 +3214,7 @@ strong,
                         transition: 0.3s;
                 z-index: 0; }
               .page-item-detail .section .content .c-pane-illustr .c-illustr.owl-carousel .owl-dots .owl-dot:hover, .page-item-detail .section .content .c-pane-illustr .c-illustr.owl-carousel .owl-dots .owl-dot.active {
-                background: #F80000; }
+                background: #1BB3FF; }
                 .page-item-detail .section .content .c-pane-illustr .c-illustr.owl-carousel .owl-dots .owl-dot:hover:before, .page-item-detail .section .content .c-pane-illustr .c-illustr.owl-carousel .owl-dots .owl-dot.active:before {
                   background: #ffffff;
                   left: -4px;
@@ -3311,7 +3311,7 @@ strong,
       color: #fff;
       margin-bottom: 0; }
     .site-footer .note .marked {
-      color: #F80000; }
+      color: #1BB3FF; }
   .site-footer .contact {
     float: right;
     position: fixed;
@@ -3363,13 +3363,13 @@ strong,
             width: auto;
             content: "";
             position: absolute;
-            background: #F80000;
+            background: #1BB3FF;
             height: 1px;
             -webkit-transition: 0.3s;
                     transition: 0.3s;
             opacity: 0; }
           .site-footer .contact .links li a:hover {
-            color: #F80000; }
+            color: #1BB3FF; }
             .site-footer .contact .links li a:hover:after {
               left: -0%;
               right: -0%;
@@ -3388,12 +3388,12 @@ strong,
           text-align: center;
           border-radius: 2px;
           background: #ffffff;
-          color: #F80000;
+          color: #1BB3FF;
           line-height: 1;
           padding-top: 0.2em; }
           .site-footer .contact .socials li a:hover {
             color: #ffffff;
-            background: #F80000; }
+            background: #1BB3FF; }
 
 /* 6. Responsiveness */
 @media (max-width: 1025px) {
@@ -3532,7 +3532,7 @@ strong,
     background: #1d1d1d; }
 
   .section.alt-bg-2 {
-    background: #F80000; }
+    background: #1BB3FF; }
 
   .section-about {
     padding-bottom: 0; }
